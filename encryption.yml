@@ -1,0 +1,10 @@
+﻿
+spring:
+  application:
+    name: provider-user
+
+  datasource:
+    username: root
+    password: '{cipher}f6b16b45da3d5a8f08d190b7dcf5f53e4ddaf2a5e5aa6575989bcc8d600d09b3'
+
+
